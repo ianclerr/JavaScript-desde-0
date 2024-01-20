@@ -1,2 +1,2 @@
 # JavaScript-desde-0
-### Introduccion basica al lenguaje de JavaScript
+### Introduccion de los trabajos, hasta la realizacion de Proyectos
